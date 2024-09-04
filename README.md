@@ -10,10 +10,10 @@
 - 🥅 Goals: Learn Backend Node.Js & Flutter Advanced Concepts
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[<img align="left" alt=" | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
-[<img align="left" alt=" | Whatsapp" width="30px" src="https://img.icons8.com/color/2x/whatsapp--v1.png" />][whatsapp]
-[<img align="left" alt=" | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt=" | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt=" | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />]
+[<img align="left" alt=" | Whatsapp" width="30px" src="https://img.icons8.com/color/2x/whatsapp--v1.png" />]
+[<img align="left" alt=" | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />]
+[<img align="left" alt=" | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />]
 
 
 [facebook]:  https://www.facebook.com/people/Mian-Husnain/pfbid0pGhk3Vyuuv4N243eT7xr4Xgp8JWjtxsaVNdC7QAxXcBqCRxx3LVPfMyZQLH3og4Pl/?mibextid=ZbWKwL
