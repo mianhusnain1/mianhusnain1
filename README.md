@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I am Mian Husnain</h1>
-<h2align="center">Flutter Mobile App Developer</h2>
+<h2 align="center">Flutter Mobile App Developer</h2>
 <h3 align="center">🎓 Computer Science Graduate from UAF, Faisalabad, Pakistan</h3>
 
 
