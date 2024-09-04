@@ -1,12 +1,10 @@
 @@ -1,4 +1,4 @@
-<h1 align="center">I am Rida Syed, Full-Stack Mobile and Web App Developer</h1>
-<h1 align="center">I am Rida Syed, Full-Stack Flutter Developer</h1>
-- 🔭 I’m currently working on **Backend Development(Python, Flask, MongoDB)**
+<h1 align="center">I am Mian Husnain, Flutter Mobile App Developer</h1>
+<h1 align="center">I am Mian Husnain, Full-Stack Flutter Developer</h1>
+- 🔭 I’m currently working on **Flutter Project Based on 3rd Party API**
 
 - 👯 I’m looking to collaborate on **Flutter based projects**
-- 🤝 I’m looking for help with **Python and flask**
 - 💬 Ask me about **Flutter, Dart, Firebase, Git, APIS**
-- ⚡ Fun fact **I am Lazy Coding Genius**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rida-syed-9808b8242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rida-syed-9808b8242/" height="30" width="40" /></a>
