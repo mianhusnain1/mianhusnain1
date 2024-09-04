@@ -1,6 +1,6 @@
-@@ -1,4 +1,4 @@
+
 <h1 align="center">I am Mian Husnain, Flutter Mobile App Developer</h1>
-<h1 align="center">I am Mian Husnain, Full-Stack Flutter Developer</h1>
+
 - 🔭 I’m currently working on **Flutter Project Based on 3rd Party API**
 
 - 👯 I’m looking to collaborate on **Flutter based projects**
