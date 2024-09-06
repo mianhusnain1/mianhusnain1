@@ -20,6 +20,7 @@
 [whatsapp]:  https://api.whatsapp.com/send?phone=923036209062
 [instagram]: https://www.instagram.com/mian.husnain1/
 [linkedin]:  https://www.linkedin.com/in/mianhusnain1/
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
