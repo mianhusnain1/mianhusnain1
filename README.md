@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at [ASK SEO](https://askseo.me/)
 - 👯 I’m looking to collaborate on **Flutter based projects**
 - 💬 Ask me about **Flutter, Dart, Firebase, Git, APIS, Hive, Provider**
-- 🥅 Goals: Learn Backend Node.Js, API Development & Flutter Advanced Concepts
+- 🥅 Goals: Learn Machine Learning and Computer Vision, API Development & Flutter Advanced Concepts
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mianhusnain1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mianhusnain1/" height="30" width="40" /></a>
